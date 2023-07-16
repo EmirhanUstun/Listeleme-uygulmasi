@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="yukaridan_bosluk">10dp</dimen>
+    <dimen name="Padding">20dp</dimen>
+    <dimen name="marginEnd">16dp</dimen>
+    <dimen name="marginStart">16dp</dimen>
+    <dimen name="imgTop">200dp</dimen>
+    <dimen name="progressTop">50dp</dimen>
+    <dimen name="imgWidth">200dp</dimen>
+    <dimen name="imgHeight">200dp</dimen>
+
+
+</resources>

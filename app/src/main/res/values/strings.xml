@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Champions League Winners</string>
+    <string name="evet">Evet</string>
+    <string name="hayir">Hayır</string>
+    <string name="cikilsinmi">Çıkılsın Mı?</string>
+
+</resources>
